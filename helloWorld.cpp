@@ -12,6 +12,5 @@
 int main()
 {
     std::cout<<"HELLO WORLDDDDDD."<<std::endl;
-    system("pause");
     return 0;
 }
