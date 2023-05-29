@@ -53,5 +53,7 @@ int main()
         std::cout << *i << ' ';
     }
     std::cout<<std::endl;
+    delete n1;
+    delete n2;
     return 0;
 }
